@@ -22,9 +22,4 @@ Secure Chatting Application developed by PHP, JavaScript, and MySQL.
 
 https://user-images.githubusercontent.com/66283081/176962281-60bab593-6bb4-47ae-aa5f-d6ad039ced73.mp4
 
-## Contact
-**• mahmoud.ahmed9@outlook.com**<br/>
-**• Ahmed Mostafa**<br/>
-**• Omar Tarek**<br/>
-**• Salma Tamer**<br/>
-**• Abdullah Abuzaid**<br/>
+
